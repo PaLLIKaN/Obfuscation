@@ -1,0 +1,36 @@
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\bin\Debug\Obfuscation.exe.config
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\bin\Debug\Obfuscation.exe
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\bin\Debug\Obfuscation.pdb
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\Obfuscation.csproj.AssemblyReference.cache
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\Obfuscation.csproj.SuggestedBindingRedirects.cache
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\ExampleWindow.g.cs
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\MainWindow.g.cs
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\App.g.cs
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\Obfuscation_MarkupCompile.cache
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\Obfuscation_MarkupCompile.lref
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\ExampleWindow.baml
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\MainWindow.baml
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\Obfuscation.g.resources
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\Obfuscation.Properties.Resources.resources
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\Obfuscation.csproj.GenerateResource.cache
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\Obfuscation.csproj.CoreCompileInputs.cache
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\Obfuscation.exe
+C:\Users\79058\Desktop\Obfuscation\Obfuscation\obj\Debug\Obfuscation.pdb
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\bin\Debug\Obfuscation.exe.config
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\bin\Debug\Obfuscation.exe
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\bin\Debug\Obfuscation.pdb
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\Obfuscation.csproj.AssemblyReference.cache
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\Obfuscation.csproj.SuggestedBindingRedirects.cache
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\MainWindow.baml
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\ExampleWindow.g.cs
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\MainWindow.g.cs
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\App.g.cs
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\Obfuscation_MarkupCompile.cache
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\Obfuscation_MarkupCompile.lref
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\ExampleWindow.baml
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\Obfuscation.g.resources
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\Obfuscation.Properties.Resources.resources
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\Obfuscation.csproj.GenerateResource.cache
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\Obfuscation.csproj.CoreCompileInputs.cache
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\Obfuscation.exe
+C:\Users\79058\OneDrive - Оренбургский государственный университет\Рабочий стол\Obfuscation\Obfuscation\obj\Debug\Obfuscation.pdb

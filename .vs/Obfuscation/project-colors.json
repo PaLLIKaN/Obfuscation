@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4cfcbc3-7702-49b3-8e60-97f39e292b6f": {
+      "ProjectGuid": "b4cfcbc3-7702-49b3-8e60-97f39e292b6f",
+      "DisplayName": "Obfuscation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
